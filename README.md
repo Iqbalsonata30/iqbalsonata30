@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Iqbal Sonata</h1>
 <h3 align="left">I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.</h3>
 
@@ -7,13 +6,14 @@
 -  Institut Teknologi Mitra Gama
 
 <h2> 🌱 I’m currently learning :</h2> 
--  <div align="justify"><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>  </a> Go  </div> <br>
--  <div align="justify"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> PHP  </div>
--   <div align="justify"><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>  </a>  Laravel</div>
+-  <div style="display:flex;"><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>  </a> Go  </div> <br>
+-  <div style="display:flex;"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> PHP  </div>
+-   <div style="display:flex;"><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>  </a>  Laravel</div>
 
 <h2> 📫 Connect with me :</h2> 
--  iqbalsonata2@gmail.com <br> 
--  <a href="https://instagram.com/iqbalsonata30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalsonata30" height="30" width="40" /></a> iqbalsonata30 <br>
+- 📫 iqbalsonata2@gmail.com <br>
+- <a href="https://linkedin.com/in/https://www.linkedin.com/in/iqbal-sonata-555001236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iqbal-sonata-555001236/" height="30" width="40" /></a> Iqbal Sonata <br>
+- <a href="https://instagram.com/iqbalsonata30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalsonata30" height="30" width="40" /></a> iqbalsonata30 <br>
 - <a href="https://twitter.com/vansblue30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansblue30" height="30" width="40" /></a> Vansblue30
 
 
