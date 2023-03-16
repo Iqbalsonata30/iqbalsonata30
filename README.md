@@ -1,5 +1,13 @@
 ### Hi there 👋
-Hello my name is <b>Iqbal Sonata</b>.I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.
+<h1 align="center">Hi 👋, I'm Iqbal Sonata</h1>
+<h3 align="center">I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.</h3>
+
+
+- 🔭 I’m currently studying at **Institut Teknologi Mitra Gama**
+
+- 🌱 I’m currently learning **Go-Lang,PHP especially (Laravel)**
+
+- 📫 How to reach me **iqbalsonata2@gmail.com**
 
 <!--
 **Iqbalsonata30/iqbalsonata30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
