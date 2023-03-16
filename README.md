@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal Sonata</h1>
-<h3 align="left">I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.</h3>
+<p align="left">I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.</p>
 
 
 <h2>🔭 I’m currently studying at :</h2> 
