@@ -3,7 +3,7 @@
 
 
 <h2>🔭 I’m currently studying at :</h2> 
--  Institut Teknologi Mitra Gama
+* Institut Teknologi Mitra Gama
 
 <h2> 🌱 I’m currently learning :</h2> 
 <div >
