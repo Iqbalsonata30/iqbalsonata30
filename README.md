@@ -3,7 +3,8 @@
 <h3 align="center">I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.</h3>
 
 
-- 🔭 I’m currently studying at **Institut Teknologi Mitra Gama**
+<h2>🔭 I’m currently studying at</h2> 
+- <h4>**Institut Teknologi Mitra Gama**</h4>
 
 - 🌱 I’m currently learning **Go-Lang,PHP especially (Laravel)**
 
