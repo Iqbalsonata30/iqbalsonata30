@@ -6,9 +6,9 @@
 -  Institut Teknologi Mitra Gama
 
 <h2> 🌱 I’m currently learning :</h2> 
-<div style="display:flex;justify-content:center;align-items:center;">
+<div >
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     <b>GO</b>
   </p>
 </div> 
