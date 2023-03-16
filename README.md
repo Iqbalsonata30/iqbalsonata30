@@ -27,11 +27,12 @@
 </div>
 
 <h2> 📫 Connect with me :</h2> 
-- 📫 iqbalsonata2@gmail.com <br>
-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/iqbal-sonata-555001236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iqbal-sonata-555001236/" height="30" width="40" /></a> Iqbal Sonata <br>
-- <a href="https://instagram.com/iqbalsonata30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalsonata30" height="30" width="40" /></a> iqbalsonata30 <br>
-- <a href="https://twitter.com/vansblue30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansblue30" height="30" width="40" /></a> Vansblue30
-
+<div style="display:flex;flex-direction:column;">
+<h3>📫</h3> iqbalsonata2@gmail.com <br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/iqbal-sonata-555001236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iqbal-sonata-555001236/" height="30" width="40" /></a> Iqbal Sonata <br>
+<a href="https://instagram.com/iqbalsonata30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalsonata30" height="30" width="40" /></a> iqbalsonata30 <br>
+<a href="https://twitter.com/vansblue30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansblue30" height="30" width="40" /></a> Vansblue30
+</div>
 
 
 
