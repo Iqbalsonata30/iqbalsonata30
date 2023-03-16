@@ -7,13 +7,13 @@
 -  Institut Teknologi Mitra Gama
 
 <h2> 🌱 I’m currently learning :</h2> 
--  <div><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> Go Language </div> <br>
--  <div> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> PHP</div>
--   <div><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> Laravel </div>
+-  <div><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> Go Language  </a> </div> <br>
+-  <div> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>PHP </a> </div>
+-   <div><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>  Laravel </a> </div>
 
 <h2> 📫 Connect with me :</h2> 
--  **iqbalsonata2@gmail.com**
--  <a href="https://instagram.com/iqbalsonata30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalsonata30" height="30" width="40" /></a> iqbalsonata30
+-  iqbalsonata2@gmail.com <br> 
+-  <a href="https://instagram.com/iqbalsonata30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalsonata30" height="30" width="40" /></a> iqbalsonata30 <br>
 - <a href="https://twitter.com/vansblue30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansblue30" height="30" width="40" /></a> Vansblue30
 
 
