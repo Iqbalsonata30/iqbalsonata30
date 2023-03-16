@@ -7,9 +7,9 @@
 
 <h2> 🌱 I’m currently learning :</h2> 
 <div style="display:flex;justify-content:center;align-items:center;">
-  <p align="center" >
+  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-    GO
+    <b>GO</b>
   </p>
 </div> 
 <br>
