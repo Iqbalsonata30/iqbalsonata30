@@ -12,14 +12,19 @@
     <b>GO</b>
   </p>
 </div> 
-<br>
-<div  style="display:flex;justify-content:center;align-items:center;">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  PHP  
+<div>
+  <p> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <b>PHP</b>
+  </p>
 </div>
-<div  style="display:flex;justify-content:center;align-items:center;"><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>  </a>  Laravel</div>
+<div>
+  <p> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <b>Laravel</b>
+  </p> 
+  
+</div>
 
 <h2> 📫 Connect with me :</h2> 
 - 📫 iqbalsonata2@gmail.com <br>
