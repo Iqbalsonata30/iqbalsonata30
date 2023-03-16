@@ -2,9 +2,8 @@
 <p align="left">I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.</p>
 
 
-<h2>🔭 I’m currently studying at :</h2> 
-- Institut Teknologi Mitra Gama
-
+<h2>🔭 Education :</h2> 
+I am currently studying Computer Engineering as a major at Institut Teknologi Mitra Gama, and I am in my fourth semester.
 <h2> 🌱 I’m currently learning :</h2> 
 <div >
   <p>
