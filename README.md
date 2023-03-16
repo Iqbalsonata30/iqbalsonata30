@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello my name is Iqbal Sonata.I'm a college student at Institute Technology Mitra Gama.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for Back-End side and Cloud-Computing side.
+Hello my name is <b>Iqbal Sonata</b>.I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.
 
 <!--
 **Iqbalsonata30/iqbalsonata30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
