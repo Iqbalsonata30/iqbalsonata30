@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Iqbal Sonata</h1>
 <p align="left">I'm a college student at <b><i>Institute Technology Mitra Gama</i></b>.Having an interest about Software Engineer so that's how i wanted to learn a lot about IT.I am fervid passion for <i>Back-End side</i> and <i>Cloud-Computing side</i>.</p>
 
+<p align="left">
+<a href="https://github.com/iqbalsonata30">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h2>🔭 Education :</h2> 
 I am currently studying Computer Engineering as a major at Institut Teknologi Mitra Gama, and I am in my fourth semester.
