@@ -9,7 +9,7 @@
 </p>
 
 <h2>🔭 Education :</h2> 
-currently,I am studying Computer Engineering as a major at Institut Teknologi Mitra Gama
+I am currently studying Computer Engineering as a major at Institut Teknologi Mitra Gama
 <h2> 🌱 I’m currently learning :</h2> 
 <div >
   <p>
