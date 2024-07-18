@@ -19,16 +19,16 @@ I am currently studying Computer Engineering as a major at Institut Teknologi Mi
 </div> 
 <div>
   <p> 
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+    <b>C</b>
+  </p> 
+</div>
+<div>
+  <p> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <b>PHP</b>
   </p>
 </div>
-<div>
-  <p> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-    <b>Laravel</b>
-  </p> 
-  
-</div>
+
 
 
