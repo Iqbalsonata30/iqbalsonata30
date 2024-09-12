@@ -19,6 +19,12 @@ I am currently studying Computer Engineering as a major at Institut Teknologi Mi
 </div> 
 <div>
   <p> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" width="40" height="40"/>
+    <b>Zig</b>
+  </p>
+</div>
+<div>
+  <p> 
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
     <b>C</b>
   </p> 
